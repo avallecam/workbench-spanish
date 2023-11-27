@@ -1,29 +1,20 @@
 ---
-title: Setup
+title: Configuración
 ---
 
-FIXME: Setup instructions live in this document. Please specify the tools and
-the data sets the Learner needs to have installed.
+Pasos de instalación.
 
-## Data Sets
+## Bases de datos
 
-<!--
-FIXME: place any data you want learners to use in `episodes/data` and then use
-       a relative link ( [data zip file](data/lesson-data.zip) ) to provide a
-       link to it, replacing the example.com link.
--->
-Download the [data zip file](https://example.com/FIXME) and unzip it to your Desktop
+Descarga [archivos zip](https://example.com/FIXME)
 
-## Software Setup
+## Configuración de software
 
 ::::::::::::::::::::::::::::::::::::::: discussion
 
-### Details
+### Detalles
 
-Setup for different systems can be presented in dropdown menus via a `solution`
-tag. They will join to this discussion block, so you can give a general overview
-of the software used in this lesson here and fill out the individual operating
-systems (and potentially add more, e.g. online setup) in the solutions blocks.
+Diferentes sistemas operativos.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -31,7 +22,7 @@ systems (and potentially add more, e.g. online setup) in the solutions blocks.
 
 ### Windows
 
-Use PuTTY
+Usar PuTTY
 
 :::::::::::::::::::::::::
 
@@ -39,7 +30,7 @@ Use PuTTY
 
 ### MacOS
 
-Use Terminal.app
+Usar Terminal.app
 
 :::::::::::::::::::::::::
 
@@ -48,7 +39,7 @@ Use Terminal.app
 
 ### Linux
 
-Use Terminal
+Usar Terminal
 
 :::::::::::::::::::::::::
 

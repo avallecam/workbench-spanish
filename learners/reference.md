@@ -1,7 +1,7 @@
 ---
-title: Reference
+title: Referencia
 ---
 
-## Glossary
+## Glosario
 
-This is a placeholder file. Please add content here.
+Agregar contenido.
