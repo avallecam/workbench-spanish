@@ -1,5 +1,5 @@
 ---
-title: Notas del Instructor
+title: Notas de Instructor
 ---
 
 Agregar.
