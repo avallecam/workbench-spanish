@@ -78,3 +78,6 @@ varnish: epiverse-trace/varnish@tracelactheme
 sandpaper: 'epiverse-trace/sandpaper#1'
 lang: es
 
+# given that I added {epidemics} to test
+# we also need to add this patch
+sandpaper: 'carpentries/sandpaper#533'
