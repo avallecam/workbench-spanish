@@ -876,6 +876,12 @@
       ],
       "Hash": "d65e35823c817f09f4de424fcdfa812a"
     },
+    "rstan": {
+      "Package": "rstan",
+      "Version": "2.32.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
     "sass": {
       "Package": "sass",
       "Version": "0.4.7",
