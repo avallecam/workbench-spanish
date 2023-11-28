@@ -20,6 +20,12 @@ exercises: 2
 
 Bla
 
+
+```r
+library(EpiEstim)
+```
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Sección con notas para instructores
