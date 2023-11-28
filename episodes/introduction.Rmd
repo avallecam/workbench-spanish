@@ -20,6 +20,10 @@ exercises: 2
 
 Bla
 
+```{r}
+library(epidemics)
+```
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: instructor
 
 Sección con notas para instructores
