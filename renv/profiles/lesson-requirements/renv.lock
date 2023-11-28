@@ -19,29 +19,9 @@
   "Packages": {
     "EpiEstim": {
       "Package": "EpiEstim",
-      "Version": "2.4",
+      "Version": "2.2-4",
       "Source": "Repository",
-      "Repository": "https://mrc-ide.r-universe.dev",
-      "Requirements": [
-        "R",
-        "abind",
-        "coarseDataTools",
-        "coda",
-        "distcrete",
-        "epitrix",
-        "fitdistrplus",
-        "gghighlight",
-        "ggplot2",
-        "grDevices",
-        "graphics",
-        "gridExtra",
-        "incidence",
-        "patchwork",
-        "reshape2",
-        "scales",
-        "stats"
-      ],
-      "Hash": "72f00b698770c640deb2f8dde261e560"
+      "Repository": "CRAN"
     },
     "MASS": {
       "Package": "MASS",
