@@ -22,7 +22,7 @@ Bla
 
 
 ```r
-library(EpiEstim)
+library(EpiEstim) # this package is to estimate time-varying R
 ```
 
 
