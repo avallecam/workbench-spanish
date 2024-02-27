@@ -36,7 +36,7 @@ Loading required package: StanHeaders
 
 ```{.output}
 
-rstan version 2.32.3 (Stan version 2.26.1)
+rstan version 2.32.3 (Stan version 2.32.2)
 ```
 
 ```{.output}
